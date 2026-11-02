@@ -6,7 +6,7 @@
 * Users: stock market traders
 * Development Model: Waterfall
 
-## Learning Attainment & Objectives
+## Topics Demonstrated
 
 ### Systems Integration & Cross-Runtime Architecture
 * **cross-language-integration** — Bridged distinct programming languages (Java/Python) utilizing Chaquopy architectures.
