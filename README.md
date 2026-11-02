@@ -6,6 +6,38 @@
 * Users: stock market traders
 * Development Model: Waterfall
 
+## Learning Attainment & Objectives
+
+### Systems Integration & Cross-Runtime Architecture
+* **cross-language-integration** — Bridged distinct programming languages (Java/Python) utilizing Chaquopy architectures.
+* **foreign-function-interface** — Utilized the exact technical mechanism required to invoke Python analytic routines from a native Java platform.
+* **runtime-environments** — Co-managed the concurrency and memory space of the Android JVM alongside the embedded Python interpreter.
+* **systems-integration** — Assembled independent subsystems (Client, Cloud DB, Script Engine) into one unified solution.
+
+### Data Engineering, Pipelines, & Analytics
+* **data-pipeline-engineering** — Designed the data lifecycle encompassing ingestion from Firebase, transformation in Python, and routing to the UI.
+* **time-series-analysis** — Programmatically manipulated and parsed sequential, time-stamped market data matrices.
+* **state-persistence** — Engineered data durability mechanisms to ensure user profiles and custom watchlists survived app termination.
+* **data-handling** — Developed the structural serialization and validation code that moved data across disparate technology stacks.
+
+### Information Security, Governance, & Session Control
+* **access-control-architecture** — Designed code-level logic gates that explicitly restricted UI views (graphs, watchlists) until the session was authenticated.
+* **session-management** — Formulated the state-machine logic governing secure active user transitions before and after account authentication.
+* **user-authentication** — Built the technical identity verification and token handling workflow for registration and login fields.
+* **application-security** — Practiced holistic security of client-side application logic and separated unauthenticated vs. authenticated memory states.
+
+### Software Engineering Lifecycle & Compliance Governance
+* **software-development-lifecycle** — Managed a system through formal phases from requirement modeling down to final production delivery.
+* **waterfall-model** — Adhered to linear phase gates, static baselines, and structured compliance tracking to demonstrate strict execution governance.
+* **software-testing** — Verified and validated that the output of the completed software matched the design specifications.
+* **systems-engineering** — Analyzed and constructed an end-to-end processing system under rigid environmental and computational constraints.
+
+### UI Engineering & Computing Foundations
+* **data-visualization-engineering** — Rendered numerical data matrices programmatically into interactive visual charts as a specialized graphics discipline.
+* **asynchronous-processing** — Decoupled background data parsing/script execution from the main application thread to prevent thread starvation.
+* **mobile-architecture** — Structured component layouts, views, and lifecycle event handling within a mobile device client.
+* **object-oriented-programming** — Relied upon explicit programming paradigms to construct, subclass, and instantiate native Java system frameworks.
+
 ## User Stories
 
 The following functionality is completed:
